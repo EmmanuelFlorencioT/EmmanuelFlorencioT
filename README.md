@@ -34,9 +34,7 @@
 
 ### 🚀 Highlights
 - Migrated critical internal BMW tooling from **Vue 2 → Vue 3 + Nuxt 3**
-- Built realtime features that notify users of status changes in under 200ms
-- Designed and implemented a distributed ID generator using Snowflake-style IDs
-- Led auth redesign using token rotation + secure refresh flows
+- Led backend redesign to fit a BFF (Backend-For-Frontend) architecture to support scalability of the core service in BMW application.
 
 *(Happy to dive deeper into any of these — the details are where the fun is.)*
 
